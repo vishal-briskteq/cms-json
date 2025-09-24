@@ -1,20 +1,38 @@
 {
   "siteInfo": {
-    "siteName": "Briskteq",
+    "siteName": "Brisktech",
     "tagline": "Innovative Technology Solutions",
     "description": "We build rounded-edge software solutions that transform businesses and drive digital innovation."
   },
   "navigation": [
-    { "label": "Home", "url": "/" },
-    { "label": "Services", "url": "/services" },
-    { "label": "About", "url": "/about" },
-    { "label": "Contact", "url": "/contact" },
-    { "label": "Connect", "url": "/connect" }
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Services",
+      "url": "/services"
+    },
+    {
+      "label": "About",
+      "url": "/about"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact"
+    },
+    {
+      "label": "Connect",
+      "url": "/connect"
+    }
   ],
   "hero": {
     "headline": "Empowering Digital Transformation",
     "subheadline": "Delivering smart solutions for modern businesses.",
-    "cta": { "text": "Get Started", "url": "/get-started" },
+    "cta": {
+      "text": "Get Started",
+      "url": "/get-started"
+    },
     "image": "/images/hero-banner.png"
   },
   "services": [
