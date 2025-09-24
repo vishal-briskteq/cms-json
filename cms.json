@@ -1,0 +1,44 @@
+{
+  "siteInfo": {
+    "siteName": "Briskteq",
+    "tagline": "Innovative Technology Solutions",
+    "description": "We build rounded-edge software solutions that transform businesses and drive digital innovation."
+  },
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Services", "url": "/services" },
+    { "label": "About", "url": "/about" },
+    { "label": "Contact", "url": "/contact" },
+    { "label": "Connect", "url": "/connect" }
+  ],
+  "hero": {
+    "headline": "Empowering Digital Transformation",
+    "subheadline": "Delivering smart solutions for modern businesses.",
+    "cta": { "text": "Get Started", "url": "/get-started" },
+    "image": "/images/hero-banner.png"
+  },
+  "services": [
+    {
+      "title": "Custom Software Development",
+      "description": "Tailored solutions to meet unique business needs."
+    },
+    {
+      "title": "Cloud Integration",
+      "description": "Seamless migration and optimization on the cloud."
+    }
+  ],
+  "about": {
+    "title": "Who We Are",
+    "content": "Briskteq is a technology company focused on delivering innovation-driven solutions."
+  },
+  "contact": {
+    "email": "info@briskteq.com",
+    "phone": "+91-9876543210",
+    "address": "123 Tech Park, Bangalore, India"
+  },
+  "connect": {
+    "linkedin": "https://linkedin.com/company/briskteq",
+    "twitter": "https://twitter.com/briskteq",
+    "github": "https://github.com/briskteq"
+  }
+}
